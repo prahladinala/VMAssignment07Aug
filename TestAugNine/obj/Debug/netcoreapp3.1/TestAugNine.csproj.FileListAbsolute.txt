@@ -1,0 +1,13 @@
+D:\C#\TestAugNine\TestAugNine\bin\Debug\netcoreapp3.1\TestAugNine.exe
+D:\C#\TestAugNine\TestAugNine\bin\Debug\netcoreapp3.1\TestAugNine.deps.json
+D:\C#\TestAugNine\TestAugNine\bin\Debug\netcoreapp3.1\TestAugNine.runtimeconfig.json
+D:\C#\TestAugNine\TestAugNine\bin\Debug\netcoreapp3.1\TestAugNine.runtimeconfig.dev.json
+D:\C#\TestAugNine\TestAugNine\bin\Debug\netcoreapp3.1\TestAugNine.dll
+D:\C#\TestAugNine\TestAugNine\bin\Debug\netcoreapp3.1\TestAugNine.pdb
+D:\C#\TestAugNine\TestAugNine\obj\Debug\netcoreapp3.1\TestAugNine.csproj.AssemblyReference.cache
+D:\C#\TestAugNine\TestAugNine\obj\Debug\netcoreapp3.1\TestAugNine.AssemblyInfoInputs.cache
+D:\C#\TestAugNine\TestAugNine\obj\Debug\netcoreapp3.1\TestAugNine.AssemblyInfo.cs
+D:\C#\TestAugNine\TestAugNine\obj\Debug\netcoreapp3.1\TestAugNine.csproj.CoreCompileInputs.cache
+D:\C#\TestAugNine\TestAugNine\obj\Debug\netcoreapp3.1\TestAugNine.dll
+D:\C#\TestAugNine\TestAugNine\obj\Debug\netcoreapp3.1\TestAugNine.pdb
+D:\C#\TestAugNine\TestAugNine\obj\Debug\netcoreapp3.1\TestAugNine.genruntimeconfig.cache

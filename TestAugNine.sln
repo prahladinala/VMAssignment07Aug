@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAugNine", "TestAugNine\TestAugNine.csproj", "{37588D62-9AB2-4310-9D27-9C5C1C00DBBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37588D62-9AB2-4310-9D27-9C5C1C00DBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37588D62-9AB2-4310-9D27-9C5C1C00DBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37588D62-9AB2-4310-9D27-9C5C1C00DBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37588D62-9AB2-4310-9D27-9C5C1C00DBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA45B345-F1FC-467D-BD05-BE2FFEC2727C}
+	EndGlobalSection
+EndGlobal
